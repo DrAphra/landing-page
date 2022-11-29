@@ -6,3 +6,5 @@ Demonstrated skills:
 HTML
 CSS
 Flexbox
+
+deployment: https://draphra.github.io/landing-page/
